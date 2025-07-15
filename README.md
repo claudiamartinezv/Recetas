@@ -58,6 +58,12 @@ vite.config.js
 
 ---
 
+## 🌐 Demo en línea
+
+Puedes ver la aplicación funcionando aquí:  
+👉 [https://claudiamartinezv.github.io/Recetas/](https://claudiamartinezv.github.io/Recetas/)
+
+
 ## 💻 Instalación y ejecución local
 
 ```bash
@@ -77,10 +83,10 @@ http://localhost:5173
 ## 👩‍💻 Autor
 
 **Claudia Martínez**  
-🔗 GitHub: [claudiamartinezv](https://github.com/claudiamartinezv/Recetas)
+🔗 GitHub: [claudiamartinezv](https://github.com/claudiamartinezv)
 
 ---
 
 ## 📄 Licencia
 
-Proyecto de uso académico y educativo.
+Proyecto realizado con fines académicos y educativos.
